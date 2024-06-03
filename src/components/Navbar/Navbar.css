@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap");
+
+.navbar {
+	display: flex; /* Display the navbar container as a flex container */
+	justify-content: space-between; /* Distribute the navbar items evenly across the container */
+	align-items: center; /* Vertically align the navbar items in the center */
+	/* background-color: #232323; Set the navbar background color */
+	height: 50px; /* Set the navbar height */
+	padding-bottom: 30px;
+}
+
+/* Style the navbar title */
+.title {
+	font-size: 20px; /* Set the font size of the navbar title */
+	font-family: "Roboto", sans-serif; /* Set the font family of the navbar title */
+}
+
+/* Style the navbar items */
+.navbar-items a {
+	color: var(--text); /* Set the text color of the navbar items */
+	text-decoration: none; /* Remove the underline from the navbar items */
+	font-size: 20px; /* Set the font size of the navbar items */
+	padding: 14px 16px; /* Add some padding to the navbar items */
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
