@@ -17,3 +17,22 @@ p {
 	font-size: 18px;
 	line-height: 150%;
 }
+
+.hyperlink {
+	color: black; /* Default color */
+	text-decoration: underline; /* Remove underline */
+	text-decoration-thickness: 2px;
+	text-decoration-color: rgb(255, 58, 186);
+	text-underline-offset: 3px;
+}
+
+.hyperlink:hover {
+	background-color: rgb(255, 196, 250);
+}
+
+.tab:hover {
+	text-decoration: underline; /* Remove underline */
+	text-decoration-thickness: 3px;
+	text-decoration-color: rgb(255, 58, 186);
+	text-underline-offset: 6px;
+}

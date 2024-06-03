@@ -9,8 +9,12 @@ function Navbar() {
 				<h3 class="navbar-header">Naail Lakhani</h3>
 			</div>
 			<div class="navbar-items">
-				<Link to="/aboutme">About</Link>
-				<Link to="/writing">Writing</Link>
+				<Link to="/aboutme" class="tab">
+					About
+				</Link>
+				<Link to="/writing" class="tab">
+					Writing
+				</Link>
 			</div>
 		</nav>
 	);
