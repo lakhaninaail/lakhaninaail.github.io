@@ -1,0 +1,254 @@
+{
+    "Detroit Pistons @ Boston Celtics": {
+        "DK": {
+            "spread": 14,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 221,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "ML": [
+                700,
+                -1110
+            ],
+            "dk_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "MGM": {
+            "spread": 13.5,
+            "spread_odds": [
+                -105,
+                -115
+            ],
+            "over_under": 221.5,
+            "over_under_odds": [
+                -105,
+                -115
+            ],
+            "mgm_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        }
+    },
+    "Indiana Pacers @ Brooklyn Nets": {
+        "DK": {
+            "spread": -1.5,
+            "spread_odds": [
+                -115,
+                -105
+            ],
+            "over_under": 227,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "ML": [
+                -130,
+                110
+            ],
+            "dk_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "MGM": {
+            "spread": -1.5,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 227.5,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "mgm_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        }
+    },
+    "Los Angeles Lakers @ Miami Heat": {
+        "DK": {
+            "spread": 1,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 219.5,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "ML": [
+                -105,
+                -115
+            ],
+            "dk_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "MGM": {
+            "spread": 1.5,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 219.5,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "mgm_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        }
+    },
+    "Orlando Magic @ Philadelphia 76ers": {
+        "DK": {
+            "spread": -2.5,
+            "spread_odds": [
+                -115,
+                -105
+            ],
+            "over_under": 205,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "ML": [
+                -135,
+                114
+            ],
+            "dk_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "MGM": {
+            "spread": -2.5,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 204.5,
+            "over_under_odds": [
+                -115,
+                -105
+            ],
+            "mgm_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        }
+    },
+    "Atlanta Hawks @ Milwaukee Bucks": {
+        "DK": {
+            "spread": 4,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 237,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "ML": [
+                145,
+                -175
+            ],
+            "dk_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "MGM": {
+            "spread": 3.5,
+            "spread_odds": [
+                -105,
+                -115
+            ],
+            "over_under": 236.5,
+            "over_under_odds": [
+                -115,
+                -105
+            ],
+            "mgm_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        }
+    },
+    "Minnesota @ LA": {
+        "DK": {
+            "spread": -3.5,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 209.5,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "ML": [
+                -162,
+                136
+            ],
+            "dk_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "MGM": {
+            "spread": -3.5,
+            "spread_odds": [
+                -110,
+                -110
+            ],
+            "over_under": 209.5,
+            "over_under_odds": [
+                -110,
+                -110
+            ],
+            "mgm_sgp": [
+                100,
+                100,
+                100,
+                100
+            ]
+        }
+    }
+}

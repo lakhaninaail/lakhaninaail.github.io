@@ -15,6 +15,9 @@ function Navbar() {
 				<Link to="/writing" class="tab">
 					Writing
 				</Link>
+				<Link to="/nba-games" class="tab">
+					NBA SGP
+				</Link>
 			</div>
 		</nav>
 	);
